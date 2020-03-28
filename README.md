@@ -1,10 +1,19 @@
 # learnopencv
 Learn OpenCV  : C++ and Python Examples. You can find the details at [LearnOpenCV.com](https://www.LearnOpenCV.com)
 
+This repository is supported by [AI Courses by OpenCV](https://opencv.org/courses/). 
+
+<a href="https://opencv.org/courses/">
+<p align="center"> 
+<img src="docs/ai-courses.png">
+</p>
+</a>
+
 ## List of Blog Posts
 
 | Blog Post | |
 | ------------- |:-------------|
+|[Augmented Reality using AruCo Markers in OpenCV(C++ and Python)](https://www.learnopencv.com/augmented-reality-using-aruco-markers-in-opencv-(c++-python)/) |[Code](https://github.com/spmallick/learnopencv/tree/master/AugmentedRealityWithArucoMarkers)|
 |[Camera Calibration using OpenCV](https://www.learnopencv.com/camera-calibration-using-opencv/) |[Code](https://github.com/spmallick/learnopencv/tree/master/CameraCalibration)|
 |[Geometry of Image Formation](https://www.learnopencv.com/geometry-of-image-formation/) ||
 |[Ensuring Training Reproducibility in Pytorch](https://www.learnopencv.com/ensuring-training-reproducibility-in-pytorch) ||
